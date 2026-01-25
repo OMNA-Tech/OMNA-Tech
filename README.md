@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ayman 👋  
+💻 Web Developer  
+🌐 HTML | CSS | JavaScript | React  
+🚀 Building modern and responsive websites  
 
-<!--
-**OMNA-Tech/OMNA-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Skills
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, Mysql
+- Frameworks: React, Bootstrap, Laravel
+- Tools: Git, GitHub, VS Code
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact Me 
+- Email:  
