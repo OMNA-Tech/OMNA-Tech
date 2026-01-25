@@ -1,5 +1,5 @@
 # Hi, I'm Ayman 👋  
-💻 Web Developer  
+💻 Web Developer |  
 🌐 HTML | CSS | JavaScript | React  
 🚀 Building modern and responsive websites  
 
@@ -10,8 +10,6 @@
 - Tools: Git, GitHub, VS Code
 
 ## 📂 Featured Projects
-  
-
 
 ## 📫 Contact Me 
 - Email:  
