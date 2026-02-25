@@ -10,8 +10,9 @@
 - Tools: Git, GitHub, VS Code
 
 ## 📂 Featured Projects
-website for a doctor centre ready to edit : [Cabinet_Medical](https://github.com/OMNA-Tech/Cabinet_Medical)
-Simple Student Management System: [Gestion_Etudiants](https://github.com/OMNA-Tech/Gestion_Etudiants)
+website for a doctor centre ready to edit : [Cabinet_Medical](https://github.com/OMNA-Tech/Cabinet_Medical).
+
+Simple Student Management System: [Gestion_Etudiants](https://github.com/OMNA-Tech/Gestion_Etudiants).
 
 ## 📫 Contact Me 
 - Email:  amn725amn@gmail.com
