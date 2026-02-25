@@ -12,4 +12,4 @@
 ## 📂 Featured Projects
 
 ## 📫 Contact Me 
-- Email:  
+- Email:  ayman.amine@uit.ac.ma
