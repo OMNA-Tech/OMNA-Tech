@@ -5,11 +5,11 @@
 
 ## 🔥 Skills
 - Frontend: HTML, CSS, JavaScript
-- Backend: PHP, Mysql
+- Backend: PHP, Mysql, Python
 - Frameworks: React, Bootstrap, Laravel
 - Tools: Git, GitHub, VS Code
 
 ## 📂 Featured Projects
 
 ## 📫 Contact Me 
-- Email:  ayman.amine@uit.ac.ma
+- Email:  amn725amn@gmail.com
